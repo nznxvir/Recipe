@@ -152,6 +152,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
                             android:text="Ingredient"
                             android:textSize="18sp"
                             android:textColor="@color/white"
